@@ -6,7 +6,7 @@ Meu nome é Mariana Pereira
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 0000109632233xsp@al.educacao.sp.gov.br
 
